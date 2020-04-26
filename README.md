@@ -10,7 +10,6 @@ Para demonstrar as funcionalidades foi desenvolvido este pequeno app que faz uma
 Link: https://app-streamlit.herokuapp.com/
 
 
-
 Linkedin: https://www.linkedin.com/in/lucastr/
 
 GitHub: https://github.com/lukstadeu
